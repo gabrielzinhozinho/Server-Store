@@ -12,19 +12,19 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>http://raw.githubusercontent.com/gabrielzinhozinho/Debpps/refs/heads/main/BitView_1.1.1_02_ios_4.3.ipa</string>
+          <string>http://raw.githubusercontent.com/gabrielzinhozinho/Server-Store/refs/heads/main/musical.ly%2032-bit%200.9.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.BitView.Mobile</string>
+        <string>com.zhiliaoapp.musically</string>
         <key>bundle-version</key>
-        <string>1.1.1</string>
+        <string>0.9<string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>BitView</string>
+        <string>Musical.ly</string>
       </dict>
     </dict>
   </array>
